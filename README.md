@@ -70,15 +70,6 @@ Bank_Marketing_Campaign_Analysis/
 
 ---
 
-## 🔹 Dataset Information
-
-- **Rows**: 41,188  
-- **Features**: Client demographics, past campaign interactions, and macroeconomic indicators  
-- **Target Variable**: `y` – whether the client subscribed to a term deposit  
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
-
----
-
 ## 📄 Citation
 
 If you use this dataset in research or public work, please cite:
